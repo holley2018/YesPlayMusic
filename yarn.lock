@@ -6771,9 +6771,9 @@ internal-ip@^4.3.0:
     default-gateway "^4.2.0"
     ipaddr.js "^1.9.0"
 
-into-stream@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/into-stream/-/into-stream-6.0.0.tgz#4bfc1244c0128224e18b8870e85b2de8e66c6702"
+into-stream@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.npmjs.org/into-stream/-/into-stream-5.2.0.tgz#4bfc1244c0128224e18b8870e85b2de8e66c6702"
   integrity sha1-S/wSRMASgiThi4hw6Fst6OZsZwI=
   dependencies:
     from2 "^2.3.0"
