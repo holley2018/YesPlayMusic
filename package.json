@@ -71,7 +71,8 @@
     "vue-i18n": "^8.22.0",
     "vue-router": "^3.4.3",
     "vue-slider-component": "^3.2.5",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "into-stream": "^5.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -80,7 +81,7 @@
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
+    "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^7.9.0",
